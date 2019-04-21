@@ -5,3 +5,6 @@
 18장 ~ : 멀티플레이  
 
 https://github.com/IJEMIN/Unity-Programming-Essence
+
+# Wiki
+공부하면서 알게 된 주의사항 서술
